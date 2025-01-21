@@ -10,7 +10,7 @@ This meter measures distance between lightning and thunder by measuring the time
 Speed of sound is 343 m/s therefore it takes approx. 291ms to the sound to travel
 100m (this is the period of NE555 timer). 
 User pushes Start button when lightning occurs and then presses Stop button when 
-hears the thunder. LED diodes shows measured distance. Maximal measurable distance is 9.9km. 
+hears the thunder. LED diodes show measured distance. Maximal measurable distance is 9.9km. 
 
 **Happy soldering!**
 
